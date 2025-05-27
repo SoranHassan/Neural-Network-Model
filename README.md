@@ -34,4 +34,4 @@
 </ol>
 
 <h2>📄 License</h2>
-<p>This project is open-source under the MIT License.</p>
+<p>This project is open-source under the GPL License.</p>
